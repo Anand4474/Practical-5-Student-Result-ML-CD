@@ -1,0 +1,5 @@
+Student Result Prediction ML Application
+Run: python app.py
+Health endpoint: GET /
+Prediction endpoint: POST /predict
+Default local address: http://127.0.0.1:5000/
